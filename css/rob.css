@@ -481,7 +481,7 @@ body.one-sidebar .region-content {
 }
 @media only screen and (min-width : 1380px) {
   body.one-sidebar .region-content {
-    width: 500px;
+    width: 922px;
     display: inline-block;
     float: left;
     margin-left: 14px;
@@ -2039,17 +2039,10 @@ hr,
 .sidebar .profile {
   text-align: left;
 }
-
 .sidebar .profile img {
-  width: 100px;
-  height: 140px;
- /* border: url(../../images/NateLinkedIn.jpg) 0 17 0 17 stretch stretch;*/
+  width: 80px;
+  height: 80px;
 }
-
-.sidebar .profile ul{
-  text-align: left;
-}
-
 .post .post-type {
   font-weight: 700;
   margin-bottom: 7px;
@@ -2114,7 +2107,7 @@ hr,
 }
 @media only screen and (min-width : 1024px) and (max-width : 1380px) {
   .content {
-    width: 640px;
+    width: 706px;
     display: inline-block;
     float: left;
     position: relative;
@@ -2238,7 +2231,7 @@ hr,
 }
 @media only screen and (min-width : 1024px) and (max-width : 1380px) {
   .sidebar {
-    width: 350px;
+    width: 256px;
     display: inline-block;
     float: left;
     position: relative;
